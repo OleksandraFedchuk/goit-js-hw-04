@@ -28,4 +28,4 @@ console.log(
   ); // false
 
   console.log(
-    isEnoughCapacity({ apples: 22, potatoes: 7, oranges: 2 }, 33));
+    isEnoughCapacity({ apples: 22, potatoes: 7, oranges: 2 }, 33)); //true
